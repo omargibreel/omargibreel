@@ -79,7 +79,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=omargibreel&show_icons=true&theme=tokyonight" />
 </div>
 
 ---
@@ -87,7 +87,7 @@
 ## 📫 Contact Me
 
 * 💼 LinkedIn: (put your link)
-* 📧 Email: (your email)
+* 📧 Email: (omarosama1124@gmail.com)
 
 ---
 
