@@ -26,10 +26,10 @@
 
 ## 🚀 Tech Stack
 
-**Backend:** C#, .NET, EF Core, LINQ
-**Frontend:** Angular, HTML, CSS, Bootstrap
-**Database:** SQL Server
-**Tools:** Git, Visual Studio, VS Code
+**Backend:** C#, .NET, EF Core, LINQ.
+**Frontend:** Angular, HTML, CSS, Bootstrap.
+**Database:** SQL Server.
+**Tools:** Git, Visual Studio, VS Code.
 
 ---
 
