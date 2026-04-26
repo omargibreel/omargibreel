@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-* 🎓 ITI Trainee (Backend Track)
+* 🎓 ITI Trainee (Professional Development & BI- infused CRM)
 * 💻 Specialized in **.NET Backend Development**
 * 🏗️ Building applications using:
 
