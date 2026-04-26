@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Omar Osama</h1>
+<h1>Hi 👋, I'm Omar Gibreel</h1>
 <h3>.NET Backend Developer</h3>
 
 </div>
