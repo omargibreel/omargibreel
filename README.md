@@ -46,7 +46,7 @@ Full SQL Server database design with constraints, relations, and stored procedur
 ## 📫 Contact
 
 * 💼 LinkedIn: https://www.linkedin.com/in/omargibreel/
-* 📧 Email: [omarosama1124@gmail.com](mailto:omargibreell@gmail.com)
+* 📧 Email: [omargibreell@gmail.com](mailto:omargibreell@gmail.com)
 * 📄 CV: https://www.overleaf.com/read/kcrxqghrybqz#6c2a1f
 
 ---
