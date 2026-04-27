@@ -12,7 +12,8 @@ I build clean, scalable APIs and robust, database-driven systems with a strong f
 * 🎓 **B.Sc. in Computer Science** — Higher Technology Institute (HTI) *(GPA: 3.33/4.0)*
 * 🏫 **ITI Trainee** — Professional Development & BI-Infused CRM Track *(Intake 46)*
 * 💻 **Focus Areas:** ASP.NET Core, Clean Architecture, and SQL Server.
-* 📫 **How to reach me:** [omargibreell@gmail.com]
+* 📫 **How to reach me:** [omargibreell@gmail.com]*
+* 📝 **Resume:** [https://drive.google.com/file/d/1qCsetka7PLd802Cvdgpv-obptrkk7gNn/view?usp=sharing]
 
 ---
 
