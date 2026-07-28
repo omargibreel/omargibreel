@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Osama Gibreel</h1>
-<h3 align="center">Backend .NET Developer | SQL Server Developer | Clean Architecture Enthusiast</h3>
+<h3 align="center">.NET Backend Developer | Microsoft Dynamics 365 & Power Platform Developer | Clean Architecture Enthusiast</h3>
 
 <p align="center">
   📍 Cairo, Egypt <br/>
@@ -20,11 +20,12 @@
 
 # 🚀 About Me
 
-Backend-focused .NET Developer passionate about building scalable APIs, database-driven systems, and clean backend architectures using ASP.NET Core and SQL Server.
+Software developer who bridges traditional .NET backend engineering with Microsoft Dynamics 365 / Power Platform — building scalable APIs and database-driven systems on one side, and architecting Dataverse solutions on the other.
 
 - 🎓 B.Sc. in Computer Science — HTI (GPA: 3.33 / 4.0)
-- 🏫 ITI .NET Full-Stack Trainee — Intake 46
-- 💻 Focused on Backend Development & Database Engineering
+- 🏫 ITI Professional Development & BI-Infused CRM Trainee — Intake 46
+- 🏗️ Solution Architect & Technical Lead on **Buildora**, a 6-person Power Platform graduation project
+- 💻 Focused on Backend Development, Database Engineering, and Dataverse Solution Architecture
 - ⚡ Interested in API Design, SQL Optimization, and Software Architecture
 
 ---
@@ -44,6 +45,14 @@ Backend-focused .NET Developer passionate about building scalable APIs, database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver)
 ![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=flat-square)
 ![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat-square)
+
+---
+
+## ⚙️ CRM & Power Platform
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=flat-square&logo=microsoft)
+![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate)
+`PCF (PowerApps Component Framework)` `Power Fx` `Business Process Flows` `Custom Plugins`
 
 ---
 
@@ -67,6 +76,42 @@ Backend-focused .NET Developer passionate about building scalable APIs, database
 ---
 
 # 💻 Featured Projects
+
+## 🏗️ Buildora
+### AI-Powered Construction Project Management Platform (Microsoft Power Platform)
+
+Enterprise Dataverse solution for managing construction projects end-to-end — milestones, contracts, invoicing, payments, and risk — built as Solution Architect & Technical Lead for a 6-person team.
+
+### 🔹 Features
+- 16-table Dataverse schema: 12 purpose-built tables (Project, Milestone, Milestone Chapter, Contract, Document, Risk, Payment Certificate, Invoice Item, Payment, Project Setup, BPF Payment, Project Member) plus 4 reused Microsoft tables (Account, Contact, Invoice, User)
+- Automatic milestone completion-percentage rollups from chapter-level progress
+- Financial workflow spanning Payment Certificates → Invoices → Invoice Line Items → Payments as dedicated, auditable tables
+- Document management via a custom-built PCF control that uploads files straight to SharePoint
+- Risk tracking with configurable probability/severity choice sets
+- Multi-environment portability using environment variables instead of hardcoded values
+
+### 🔹 Tech Stack
+- Microsoft Power Platform & Dataverse
+- Power Automate (Cloud Flows)
+- Power Fx (calculated formulas)
+- PCF (PowerApps Component Framework, TypeScript)
+- C# Plugins (Dataverse SDK)
+- Business Process Flows
+- SharePoint Online integration
+
+### 🔹 Highlights
+- Designed the full 16-table Dataverse schema as Solution Architect
+- Built **5 custom C# plugins** registering **10 plug-in steps** — including pre-image-based Create/Update/Delete handling to keep milestone completion percentages in sync, plus plugin-enforced validation for milestone dates, chapter sequencing, invoice amounts, and payment-certificate eligibility
+- Automated **12 Power Automate cloud flows** for deadline notifications, invoice status checks, and SharePoint document uploads
+- Configured **4 processes** — 2 Business Process Flows (Project Setup, Payment) and 2 background workflows — plus 4 global choice sets for status and risk fields
+- Built a custom PCF control (**Buildora File Upload Control**, v2.0.0) that uploads a file to SharePoint via an HTTP-triggered flow and writes the resulting URL straight back onto the Dataverse form
+- Solution spans 16 tables, 5 plugin assemblies, 3 environment variables, and 4 security roles
+- Delivered as both a graduation project and the technical foundation for a commercial construction-management SaaS product
+
+🔗 **GitHub Repository**  
+https://github.com/omargibreel/BuildoraCRM
+
+---
 
 ## 🏨 Noqosh API
 ### Travel Booking Backend System
@@ -182,6 +227,7 @@ https://omargibreel.github.io/ExaminationSystem-ITI
 
 # 🎯 Currently Learning
 
+- Microsoft Power Platform certifications (PL-200, MB-280)
 - Advanced SQL Optimization
 - Docker
 - Redis
