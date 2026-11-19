@@ -21,12 +21,10 @@
 <h2 align="center">Tech Stack</h2>
 <p align="center">
   <img alt="C#, .NET, Redis, JavaScript, TypeScript, Angular, Docker, Git, and GitHub" src="https://skillicons.dev/icons?i=cs,dotnet,redis,js,ts,angular,docker,git,github&amp;perline=9&amp;theme=dark" />
+  <img alt="SQL Server" src="microsoft-sql-server.svg" width="46" height="46"/>
 </p>
 <p align="center">
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-A8232D?style=flat-square" />
-  <img alt="Dynamics 365" src="https://img.shields.io/badge/Dynamics%20365-2452A4?style=flat-square" />
-</p>
-<p align="center">
+  <img alt="Dynamics 365" src="Dynamics365_scalable.svg" width="46" height="46" />
   <img src="PowerPlatform_scalable.svg" alt="Power Platform" title="Power Platform" width="46" height="46" />
   <img src="PowerApps_scalable.svg" alt="Power Apps" title="Power Apps" width="46" height="46" />
   <img src="Dataverse_scalable.svg" alt="Dataverse" title="Dataverse" width="46" height="46" />
